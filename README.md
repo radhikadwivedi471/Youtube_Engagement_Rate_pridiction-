@@ -28,7 +28,7 @@ Early fusion (combine before hidden layers).
 Late fusion (combine outputs of separate models).
 Hybrid fusion (mix of early and late).
 
-6.Result
+6. Result
 Built text, tabular, and image pipelines,
 Implements GNN enhancement.
 Trains models and compares them visually.
