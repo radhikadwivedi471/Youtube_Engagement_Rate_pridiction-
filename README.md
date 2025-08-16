@@ -23,7 +23,6 @@ Use GNN to propagate features across similar videos for richer representations.
 Text-only model (LSTM or Transformer-based).
 Tabular-only model (Dense layers).
 Image-only model (CNN-based).
-
 Multimodal model:
 Early fusion (combine before hidden layers).
 Late fusion (combine outputs of separate models).
